@@ -1,6 +1,6 @@
-# READDDD
-1. holaaaaa
-2. comi arroz
-3. comi carne
-4. comi salchi
+# ¡LEER ANTES DE VER ESTE REPOSITORIO
+
+· Este repositorio este repositorio es mi prueba de santiago sambony , apenas estoy comenzando en esto
+
+1. holaaaaaa
 
